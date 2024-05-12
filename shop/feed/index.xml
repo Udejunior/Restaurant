@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shop &#8211; Restaurant</title>
+	<atom:link href="https://udejunior.github.io/Restaurant/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://udejunior.github.io/Restaurant</link>
+	<description></description>
+	<lastBuildDate>Mon, 14 Jul 2014 14:12:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Ricotta Cheese</title>
+		<link>https://udejunior.github.io/Restaurant/product/ricotta-cheese/</link>
+					<comments>https://udejunior.github.io/Restaurant/product/ricotta-cheese/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2014 14:12:45 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.1.104/restaurant/?post_type=product&#038;p=340</guid>
+
+					<description><![CDATA[with basil leaves and cherry tomatoes]]></description>
+										<content:encoded><![CDATA[with basil leaves and cherry tomatoes]]></content:encoded>
+					
+					<wfw:commentRss>https://udejunior.github.io/Restaurant/product/ricotta-cheese/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pasta alla carbonara</title>
+		<link>https://udejunior.github.io/Restaurant/product/pasta-alla-carbonara/</link>
+					<comments>https://udejunior.github.io/Restaurant/product/pasta-alla-carbonara/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2014 14:06:12 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.1.104/restaurant/?post_type=product&#038;p=337</guid>
+
+					<description><![CDATA[Luscious and wonderfully indulgent]]></description>
+										<content:encoded><![CDATA[Luscious and wonderfully indulgent]]></content:encoded>
+					
+					<wfw:commentRss>https://udejunior.github.io/Restaurant/product/pasta-alla-carbonara/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Prosecco, Jeio</title>
+		<link>https://udejunior.github.io/Restaurant/product/prosecco-jeio/</link>
+					<comments>https://udejunior.github.io/Restaurant/product/prosecco-jeio/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2014 14:04:36 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.1.104/restaurant/?post_type=product&#038;p=336</guid>
+
+					<description><![CDATA[NV, Italy (O) 11&#124;37]]></description>
+										<content:encoded><![CDATA[NV, Italy (O) 11&#124;37]]></content:encoded>
+					
+					<wfw:commentRss>https://udejunior.github.io/Restaurant/product/prosecco-jeio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Coffee</title>
+		<link>https://udejunior.github.io/Restaurant/product/coffee/</link>
+					<comments>https://udejunior.github.io/Restaurant/product/coffee/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2014 14:03:55 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.1.104/restaurant/?post_type=product&#038;p=335</guid>
+
+					<description><![CDATA[With Yauco Selecto beans (very exclusive)]]></description>
+										<content:encoded><![CDATA[With Yauco Selecto beans (very exclusive)]]></content:encoded>
+					
+					<wfw:commentRss>https://udejunior.github.io/Restaurant/product/coffee/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pastries with fruits</title>
+		<link>https://udejunior.github.io/Restaurant/product/pastries-with-fruits/</link>
+					<comments>https://udejunior.github.io/Restaurant/product/pastries-with-fruits/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2014 14:01:31 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.1.104/restaurant/?post_type=product&#038;p=334</guid>
+
+					<description><![CDATA[pretty pastries that hide a strawberry surprise inside]]></description>
+										<content:encoded><![CDATA[pretty pastries that hide a strawberry surprise inside]]></content:encoded>
+					
+					<wfw:commentRss>https://udejunior.github.io/Restaurant/product/pastries-with-fruits/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Carrot Soup</title>
+		<link>https://udejunior.github.io/Restaurant/product/carrot-soup/</link>
+					<comments>https://udejunior.github.io/Restaurant/product/carrot-soup/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2014 10:17:41 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.1.104/restaurant/?post_type=product&#038;p=333</guid>
+
+					<description><![CDATA[Best ingredients, all fresh]]></description>
+										<content:encoded><![CDATA[Best ingredients, all fresh]]></content:encoded>
+					
+					<wfw:commentRss>https://udejunior.github.io/Restaurant/product/carrot-soup/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vegetarian Pizza</title>
+		<link>https://udejunior.github.io/Restaurant/product/vegetarian-pizza/</link>
+					<comments>https://udejunior.github.io/Restaurant/product/vegetarian-pizza/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2014 10:14:56 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.1.104/restaurant/?post_type=product&#038;p=331</guid>
+
+					<description><![CDATA[Mushroom ketchup &#038; fries]]></description>
+										<content:encoded><![CDATA[Mushroom ketchup &#038; fries]]></content:encoded>
+					
+					<wfw:commentRss>https://udejunior.github.io/Restaurant/product/vegetarian-pizza/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cheeseburger</title>
+		<link>https://udejunior.github.io/Restaurant/product/burger/</link>
+					<comments>https://udejunior.github.io/Restaurant/product/burger/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2014 08:41:27 +0000</pubDate>
+				<guid isPermaLink="false">http://192.168.1.104/restaurant/?post_type=product&#038;p=326</guid>
+
+					<description><![CDATA[Ale &#38; artichokes]]></description>
+										<content:encoded><![CDATA[Ale &#38; artichokes]]></content:encoded>
+					
+					<wfw:commentRss>https://udejunior.github.io/Restaurant/product/burger/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
